@@ -23,3 +23,7 @@
 /nbdist/
 /.nb-gradle/
 /build/
+
+
+### Desktop icons ###
+.DS_store
